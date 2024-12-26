@@ -1,0 +1,10 @@
+== Suppressed Messages ==
+
+# Add warning and/or information messages here after you've confirmed that they aren't really a problem
+# (And include comments like this justifying why)
+# See https://github.com/FHIR/sample-ig/blob/master/input/ignoreWarnings.txt for examples
+
+# The referred url is decided at run time thus it doesn't need to be resolved against the example:
+Reference_REF_CantResolve
+
+# ERROR: Organization/ChangningFengxiaoDistrictCentralHospitalBranch: Organization.partOf: Unable to resolve resource% 
